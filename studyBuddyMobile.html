@@ -1,0 +1,25 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mobileStyles.css" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<script src="mainScript.js" type="text/javascript"></script>
+
+</head>
+
+<body onload="main();">
+<!-- <a href="http://dl-web.dropbox.com/u/5215073/apacheServer/webapps/StudyBuddy/studyBuddy.html">Dropbox Server Link: http://goo.gl/a8qQY</a> <br/>-->
+Choose a review to study: <select id="reviewSelect"><option>Loading...</option></select>
+<div id="questionBox"></div>
+<br/>
+<div id="answerBox"></div>
+</br>
+
+<label><input type='checkbox' id='autoCorrection' onchange='autoCorrection(this);'>Toggle Auto-Correction</label>
+<input type="submit" value="Click Here to Enter" alt="Submit button" id="submitButton" onclick="main()"/> 
+</div>
+
+<div id="console"></div>
+
+</body>
+
+</html>

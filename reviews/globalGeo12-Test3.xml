@@ -1,0 +1,1145 @@
+<?xml version="1.0"?>
+
+<REVIEW>
+
+<!-- Canada-At-A-Glance -->
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Canada-At-A-Glance</ID>
+	<Q>Total land area</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>10 million square km</FULL>
+		<KEY>
+			<WORD>10 000 000</WORD>
+			<WORD>10,000,000</WORD>
+			<WORD>10 million</WORD>
+			<WORD>10000000</WORD>
+			<WORD>10million</WORD>
+			<VALUE>0.75</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>km squared</WORD>
+			<WORD>square km</WORD>
+			<WORD>kilometers square</WORD>
+			<WORD>square kilometers</WORD>
+			<WORD>km^2</WORD>
+			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Canada-At-A-Glance</ID>
+	<Q>Total water area</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>900 thousand square km</FULL>
+		<KEY>
+			<WORD>900 000</WORD>
+			<WORD>900,000</WORD>
+			<WORD>900 thousand</WORD>
+			<WORD>900000</WORD>
+			<WORD>900thousand</WORD>
+			<VALUE>0.75</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>km squared</WORD>
+			<WORD>square km</WORD>
+			<WORD>kilometers square</WORD>
+			<WORD>square kilometers</WORD>
+			<WORD>km^2</WORD>
+			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Canada-At-A-Glance</ID>
+	<Q>Length of Canada's coastline</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>200,000 km</FULL>
+		<KEY>
+			<WORD>200 000</WORD>
+			<WORD>200,000</WORD>
+			<WORD>200 thousand</WORD>
+			<WORD>200000</WORD>
+			<WORD>200thousand</WORD>
+			<VALUE>0.75</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>km</WORD>
+			<WORD>kilometers</WORD>
+			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Canada-At-A-Glance</ID>
+	<Q>Length of border with USA</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>11,000 km</FULL>
+		<KEY>
+			<WORD>11 000</WORD>
+			<WORD>11,000</WORD>
+			<WORD>11 thousand</WORD>
+			<WORD>11000</WORD>
+			<WORD>11thousand</WORD>
+			<VALUE>0.75</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>km</WORD>
+			<WORD>kilometers</WORD>
+			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Canada-At-A-Glance</ID>
+	<Q>Largest island</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Baffin Island, Nunavut. 507,451 square km</FULL>
+		<KEY>
+			<WORD>Baffin</WORD>			
+			<VALUE>0.9</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Nunavut</WORD>			
+			<VALUE>0.1</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Canada-At-A-Glance</ID>
+	<Q>Longest river</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Mackenzie River, Northwest Territories-Alberta-British Columbia. 4,241 km in length</FULL>
+		<KEY>
+			<WORD>Mackenzie</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Canada-At-A-Glance</ID>
+	<Q>Largest lake (entirely in Canada)</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Lake Superior, Ontario</FULL>
+		<KEY>
+			<WORD>Superior</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Canada-At-A-Glance</ID>
+	<Q>Highest waterfall</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Della Falls, British Columbia. 440 meters high</FULL>
+		<KEY>
+			<WORD>Della</WORD>			<VALUE>0.9</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>British Columbia</WORD>
+			<WORD>BC</WORD>
+			<VALUE>0.1</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Canada-At-A-Glance</ID>
+	<Q>Highest peak/mountain</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Mount Logan, Yukon Territory. 5959 meters</FULL>
+		<KEY>
+			<WORD>Logan</WORD>			<VALUE>0.9</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Yukon</WORD>
+			<VALUE>0.1</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+
+<!-- TERMINOLOGY - GLOBAL SUPERLATIVES -->
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Size of Earth's surface</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>500 million km</FULL>
+		<KEY>
+			<WORD>500 000 000</WORD>
+			<WORD>500,000,000</WORD>
+			<WORD>500 million</WORD>
+			<WORD>500000000</WORD>
+			<WORD>500million</WORD>
+			<VALUE>0.75</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>km</WORD>
+			<WORD>kilometers</WORD>
+			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Largest continent</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Asia</FULL>
+		<KEY>
+			<WORD>Asia</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Smallest Continent</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Australia</FULL>
+		<KEY>
+			<WORD>Australia</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Largest Ocean</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Pacific Ocean</FULL>
+		<KEY>
+			<WORD>Pacific</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Smallest Ocean</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Arctic Ocean</FULL>
+		<KEY>
+			<WORD>Arctic</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Largest Sea</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Caspian Sea, Russian Federation</FULL>
+		<KEY>
+			<WORD>Caspian</WORD> <VALUE>0.75</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Russia</WORD>	<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Largest Island</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Greenland, North Atlantic</FULL>
+		<KEY>
+			<WORD>Greenland</WORD>			<VALUE>0.75</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>North Atlantic</WORD> <VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Largest Nation</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Russian Federation</FULL>
+		<KEY>
+			<WORD>Russian</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Fed</WORD> <VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Smallest Nation</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Vatican, Europe</FULL>
+		<KEY>
+			<WORD>Vatican</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Europe</WORD> <VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Most populous nation</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>China</FULL>
+		<KEY>
+			<WORD>China</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Highest point</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Mount Everest</FULL>
+		<KEY>
+			<WORD>Everest</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Lowest Point</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Dead Sea</FULL>
+		<KEY>
+			<WORD>Dead</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Sea</WORD> <VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Driest Spot</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Atacama Desert</FULL>
+		<KEY>
+			<WORD>Atacama</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Desert</WORD> <VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Largest Desert</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Sahara</FULL>
+		<KEY>
+			<WORD>Sahara</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Tallest Waterfall</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Della Falls</FULL>
+		<KEY>
+			<WORD>Della</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Greatest Tides</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Bay of Fundy</FULL>
+		<KEY>
+			<WORD>Bay</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Fundy</WORD> <VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+
+<!-- TERMINOLOGY - PHYSICAL CONNNECTIONS QUESTIONS SHEET -->
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Physical Connections Questions Sheet</ID>
+	<Q>Diameter of the sun</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>1,392,000 km</FULL>
+		<KEY>
+			<WORD>1.3 million</WORD>
+			<WORD>1.39 million</WORD>
+			<WORD>1.392 million</WORD>
+			<WORD>1392000</WORD>
+			<WORD>1,392,000</WORD>			
+			<VALUE>0.75</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>km</WORD>
+			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Physical Connections Questions Sheet</ID>
+	<Q>Diameter of Earth</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>13,756 km</FULL>
+		<KEY>
+			<WORD>13 thousand</WORD>
+			<WORD>14 thousand</WORD>
+			<WORD>13thousand</WORD>
+			<WORD>14thousand</WORD>
+			<WORD>13,756</WORD>
+			<WORD>13756</WORD>
+			<WORD>13000</WORD>	
+			<WORD>13,000</WORD>
+			<WORD>13700</WORD>
+			<WORD>13800</WORD>
+			<WORD>14000</WORD>		
+			<VALUE>0.75</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>km</WORD>
+			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>How many times largest than Earth is the sun?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Sun is 109 times larger than Earth</FULL>
+		<KEY>
+			<WORD>109</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Approximate age of Earth (in earth years)</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>4.6 billion years old.</FULL>
+		<KEY>
+			<WORD>4.6 billion</WORD>
+			<WORD>4.6billion</WORD>
+			<WORD>4,600,000,000</WORD>
+			<WORD>4600000000</WORD>
+			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Earth's temperature range</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>From -50 degrees Celsius to 50 degrees Celsius.</FULL>
+		<KEY>
+			<WORD>-50</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>+50</WORD> <WORD> 50</WORD> <VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What is a Pangaea?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Continental drifts occur, separating a single continent/mass.</FULL>
+		<KEY>
+			<WORD>drift</WORD> <WORD>separating</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>continent</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Why is our planet sometimes referred to as a the "Fragile Miracle"?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>These four important conditions exist in such an intricate and perfectly balanced combination that it seems unlikely the same combination could be duplicated anywhere else.</FULL>
+		<KEY>
+			<WORD>four</WORD> <WORD>4</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>conditions</WORD>			<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>intricate</WORD> <WORD>perfect</WORD>	<WORD>combination</WORD> <WORD>unlikely</WORD>	<VALUE>0.4</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>duplicate</WORD>			<VALUE>0.15</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What are the "life gases"?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Oxygen (O2), Nitrogen (N), Carbon Dioxide (CO2)</FULL>
+		<KEY>
+			<WORD>O2</WORD>
+			<WORD>Oxygen</WORD>
+			<VALUE>0.4</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>N</WORD>	
+			<WORD>Nitrogen</WORD>		
+			<VALUE>0.3</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>CO2</WORD>
+			<WORD>Carbon Dioxide</WORD>			
+			<VALUE>0.3</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What is the Greenhouse Effect?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Atmosphere transfers some of the heat, light and energy from the sun required for warmth on the surface of the Earth (solar radiation)*problems arise when the atmosphere becomes compromised (holes --> ozone) and too much energy gets through the atmosphere --> global warming and the increased burning of fossil fuels on Earth increases the atmosphere temperature.</FULL>
+		<KEY>
+			<WORD>atmosphere</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What is Albedo?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>ALBEDO (Reflectivity) EFFECT:
+The darker the surface of the Earth (dense vegetation, ocean) the greater heat absorption and less reflectivity of that heat (from lighter surfaces)
+Areas of dark, dense vegetation ( rainforests, forests, oceans) absorb much of the sun’s heat and energy. But, with the removal of dense forests and plant life less absorption -- more reflectivity which increases Earth’s temperature.
+b) Albedo (Reflectivity) Effect: Extensive areas of plant/tree cover absorb heat and radiation which would normally be reflected back into the atmosphere increasing substantially Earth’s temperature. That is why mass deforestation and clear-cutting of trees is speeding up the process of global warming because the heat that would normally be absorbed by the tree cover is being reflected into the atmosphere.
+This increased temperature on the surface of the Earth is due to albedo which is contributing to the melting of polar ice caps and glaciers.</FULL>
+		<KEY>
+			<WORD>reflectivity</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What % of the Earth's surface is water?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Approximately 66% of the Earth’s surface is water. (only a small % is fresh water)</FULL>
+		<KEY>
+			<WORD>66</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What percentage of the human body is water?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Up to 70% of the human body is water.</FULL>
+		<KEY>
+			<WORD>70</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Photosynthesis</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>(the process in which plants make food (sugar) from carbon dioxide and water in the presence of light and chlorophyll.) Plants absorb carbon dioxide and moisture (water) for photosynthesis which helps stabilize the Earth’s temperature. Otherwise, can you imagine the levels of carbon dioxide and water in the atmosphere which would significantly increase temperature.</FULL>
+		<KEY>
+			<WORD>light</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>No living organism is less than what percentage of water?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>No living organism is less than 50% water.</FULL>
+		<KEY>
+			<WORD>50</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What percentage of blood is water?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>About 83% of our blood is water which helps digest our food, transport waste, and control body</FULL>
+		<KEY>
+			<WORD>83</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What percentage of lungs are water?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>lungs are nearly 90% water</FULL>
+		<KEY>
+			<WORD>90</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Distribution of gases in atmosphere</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Atmospheric distribution of gases on Earth: 78% nitrogen, 21% oxygen, Carbon dioxide 0.03%</FULL>
+		<KEY>
+			<WORD>21</WORD>			<VALUE>0.4</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>78</WORD>			<VALUE>0.3</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>0.03</WORD>			<VALUE>0.3</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What is a "Sphere"? (not the geometrical definition)</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>one of 4 areas of activity on Earth (zones)</FULL>
+		<KEY>
+			<WORD>zones</WORD>	<WORD>area</WORD>		<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>4</WORD> <WORD>four</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>activity</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Earth</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What are the 4 Spheres on Earth?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>1. Lithosphere (Earth’s crust-soil, rocks, minerals); 2. Hydrosphere (water); 3. Atmosphere (gases in air); 4. Biosphere (all lifeforms)</FULL>
+		<KEY>
+			<WORD>Lithosphere</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Hydrosphere</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Atmosphere</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Biosphere</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What are Ecosystems?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>The separate but interdependent units of the biosphere (well-defined habitats of organisms) (biomes, rainforest, savanna, desert, ocean, marsh)</FULL>
+		<KEY>
+			<WORD>biosphere</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What is Global Warming?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Global warming is closely linked to the enhanced greenhouse effect which is an increase in the concentration of greenhouse gases in the atmosphere leading to an increase in the amount of infrared or thermal radiation near the surface. Most scientists agree that the enhanced greenhouse effect is leading to rising temperatures, referred to as global warming.
+Global warming is the principal cause of climate change
+Global warming is a very serious threat to the Earth’s ecosystem
+Global warming is largely overhyped and not that series
+For 4.6 billion years, the Earth has gone through cycles of climate change-periods of cooling down (ice ages) and warming up. This period of climate change is no different. It’s just part of a cycle.
+While the Earth has gone through cycles of cooling and warming, this is the first cycle with well over 7 billion people on board... with many spewing forth carbon gases like never before in our homes, at our jobs and on our roads.
+</FULL>
+		<KEY>
+			<WORD>greenhouse effect</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What is an Element?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>An element is usually a gas in the atmosphere that formed naturally. An element is nitrogen.</FULL>
+		<KEY>
+			<WORD>natural</WORD>	<WORD>formed naturally</WORD>		<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What are Amino Acids?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>a) An organic compound that is building blocks of all proteins.
+b) through the process of digesting plants, animals, turn the protein and other nitrogen compounds into “new” proteins called amino acids.</FULL>
+		<KEY>
+			<WORD>proteins</WORD>			<VALUE>0.6</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>organic</WORD> <WORD>compound</WORD>			<VALUE>0.4</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What is Denitrification?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>The process of nitrates breaking down and releasing nitrogen gas into atmosphere.</FULL>
+		<KEY>
+			<WORD>nitrates</WORD>	<WORD>amino acids</WORD>		<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>breaking down</WORD><WORD>break down</WORD> <VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Top 5 Carbon Emitting Countries, by *Total Emissions*. (IMPORTANT: In the form "# Country"</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL></FULL>
+		<KEY>
+			<WORD>1. China</WORD>
+			<WORD>1.China</WORD>
+			<WORD>1) China</WORD>
+			<WORD>1)China</WORD>
+			<WORD>1 China</WORD>
+			<WORD>1China</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>2. United States</WORD>
+			<WORD>2.United States</WORD>
+			<WORD>2) United States</WORD>
+			<WORD>2)United States</WORD>
+			<WORD>2 United States</WORD>
+			<WORD>2United States</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>3. Russia</WORD>
+			<WORD>3.Russia</WORD>
+			<WORD>3) Russia</WORD>
+			<WORD>3)Russia</WORD>
+			<WORD>3 Russia</WORD>
+			<WORD>3Russia</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>4. India</WORD>
+			<WORD>.India</WORD>
+			<WORD>4) India</WORD>
+			<WORD>4)India</WORD>
+			<WORD>4 India</WORD>
+			<WORD>4India</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>5. Japan</WORD>
+			<WORD>5.Japan</WORD>
+			<WORD>5) Japan</WORD>
+			<WORD>5)Japan</WORD>
+			<WORD>5 Japan</WORD>
+			<WORD>5Japan</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>Top 5 Carbon Emitting Countries, by *Per Capita*. (IMPORTANT: In the form "Order# Country"</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL></FULL>
+		<KEY>
+			<WORD>1. Australia</WORD>
+			<WORD>1.Australia</WORD>
+			<WORD>1) Australia</WORD>
+			<WORD>1)Australia</WORD>
+			<WORD>1 Australia</WORD>
+			<WORD>1Australia</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>2. United States</WORD>
+			<WORD>2.United States</WORD>
+			<WORD>2) United States</WORD>
+			<WORD>2)United States</WORD>
+			<WORD>2 United States</WORD>
+			<WORD>2United States</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>3. Canada</WORD>
+			<WORD>3.Canada</WORD>
+			<WORD>3) Canada</WORD>
+			<WORD>3)Canada</WORD>
+			<WORD>3 Canada</WORD>
+			<WORD>3Canada</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>4. Saudi Arabia</WORD>
+			<WORD>4.Saudi Arabia</WORD>
+			<WORD>4) Saudi Arabia</WORD>
+			<WORD>4)Saudi Arabia</WORD>
+			<WORD>4 Saudi Arabia</WORD>
+			<WORD>4Saudi Arabia</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>5. Russia</WORD>
+			<WORD>5.Russia</WORD>
+			<WORD>5) Russia</WORD>
+			<WORD>5)Russia</WORD>
+			<WORD>5 Russia</WORD>
+			<WORD>5Russia</WORD>			
+			<VALUE>0.2</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - 1</ID>
+	<Q>What is the first presence/appearance of water on Earth?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>The first water appeared on Earth from the gases and vapours given off by the earliest volcanoes. These volcanic vapours condensed to a liquid as they rose into the atmosphere and fell back to the surface of the earth in the form of rain/precipitation. Other water was created by the combination of hydrogen and oxygen in the atmosphere.</FULL>
+		<KEY>
+			<WORD>volcano</WORD> <WORD>volcanoes</WORD> <WORD>volcanic</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - 1</ID>
+	<Q>What percentage of the atmosphere does Oxygen make up?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Oxygen makes up 21% of the atmosphere</FULL>
+		<KEY>
+			<WORD>21</WORD>			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - 1</ID>
+	<Q>What 4 layers make up the atmosphere? (Try to remember the altitude levels, and temperatures)</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Troposphere: 0-->10km, +16C
+		Stratosphere: 10 to 50km, -53C to +20C
+		Mesosphere: 50 to 80km, -84C
+		Thermosphere: 80km-->+, No definite temperature</FULL>
+		<KEY>
+			<WORD>Troposphere</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Stratosphere</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Mesosphere</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Thermosphere</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - 1</ID>
+	<Q>What is Ozone?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Oxygen isotope (O2 in a different form) that protects human life on Earth by filtering out excessive UV radiation.</FULL>
+		<KEY>
+			<WORD>oxygen</WORD> <WORD>O2</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>isotope</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>filter</WORD> <WORD>protect</WORD> 			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>radiation</WORD>	<WORD>UV</WORD> <WORD>UltraViolet</WORD>		<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - 1</ID>
+	<Q>What are CFCs?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Chlorofluorocarbons. Molecules of carbon, fluorine, and chlorine; that destroyed ozone</FULL>
+		<KEY>
+			<WORD>carbon</WORD> <WORD>Chlorofluorocarbons</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>fluorine</WORD>	<WORD>Chlorofluorocarbons</WORD>		<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>chlorine</WORD> <WORD>Chlorofluorocarbons</WORD> 			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>ozone</WORD>		<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+
+
+
+<!-- SHORT ANSWER QUESTIONS -->
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - 1</ID>
+	<Q>1. List 3 reasons why the other 8 planets in our solar system are incapable of supporting life.</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>1) Too cold / Too hot (tilt/distance from sun); 2) Radiation from Sun is lethal (not thick enough atmosphere); 3) Lack water or gases capable of supporting life (oxygen, etc)</FULL>
+		<KEY>
+			<WORD>temperature</WORD> <WORD>cold</WORD><WORD>hot</WORD> <WORD>distance</WORD><WORD>tilt</WORD>			<VALUE>0.3</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Radiation</WORD>	<WORD>atmosphere</WORD>		<VALUE>0.3</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>supporting life</WORD> <WORD>water</WORD> 		<VALUE>0.2</VALUE>
+		</KEY>
+		<KEY>
+			 <WORD>gas</WORD> <WORD>Oxygen</WORD> <WORD>Nitrogen</WORD> <WORD>Carbon Dioxide</WORD>			<VALUE>0.2</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - </ID>
+	<Q>2. What 4 conditions exist on planet Earth that make life possible?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Constant and Relatively mild temperature because our distance from sun ensures that just the right amount of the sun’s energy (heat) reaches us to sustain life.
+ * Also, the Earth’s rotation on its axis, and its revolution around the sun (1 every 365.25 days) also contributes to even heat distribution around the globe.
+Abundance of water because of the ecology of the Earth and distance from sun and revolution around sun (seasons -> rainy season)
+Sufficient quantity of gases (O2, N, CO2) because of the life forms on earth that produce these gases and gravity that holds these gases (atmosphere) in place.
+Thick atmosphere because the gravitational field around the Earth holds it in place which keeps the life-sustaining gases place and also contains magnetic field which protects the Earth from radiation and cosmic particles (defects or slows them down)</FULL>
+		<KEY>
+			<WORD>temperature</WORD>	<WORD>constant</WORD>		<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>water</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>gas</WORD>	<WORD>Oxygen</WORD> <WORD>Nitrogen</WORD> <WORD>Carbon Dioxide</WORD>		<VALUE>0.25</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>atmosphere</WORD> <WORD>thick</WORD>			<VALUE>0.25</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - </ID>
+	<Q>3. How is the stable temperature range maintained on Earth?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>The Greenhouse Effect:
+Atmosphere tras some of the heat, light and energy from the sun required for warmth on the surface of the Earth (solar radiation)
+* problems arise when the atmosphere becomes compromised (holes → ozone) and too much energy gets through the atmosphere → global warming and the increased burning of fossil fuels on Earth increases the atmosphere temperature.
+Plant Cover on Earth stabilizes Earth’s temperature:
+a) photosynthesis and respiration. Plants and animals “breathing” help control or regulate the Earth’s temperature (6.5.b people breathing!!)
+Also, affects the Carbon-Oxygen balance: Animals exhaling carbon, plants product O2. When this is imbalanced, more Carbon is being produced which destabilizes Earth’s temperature.
+b) ALBEDO (Reflectivity) EFFECT:
+The darker the surface of the Earth (dense vegetation, ocean) the greater heat absorption and less reflectivity of that heat (from lighter surfaces)
+Areas of dark, dense vegetation ( rainforests, forests, oceans) absorb much of the sun’s heat and energy. But, with the removal of dense forests and plant life less absorption -- more reflectivity which increases Earth’s temperature.</FULL>
+		<KEY>
+			<WORD>greenhouse</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>photosynthesis</WORD> <WORD>respiration</WORD> <WORD>Albedo</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - </ID>
+	<Q>4. Three functions of the Earth’s water supply on Earth (environmental)</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>The 3 main functions of the earth’s water supply (environmental importance)
+a) Because of its ability to absorb and store heat; the water in the rivers and oceans help to distribute heat around the world. (land areas close to the oceans have more moderate climates)
+b) Oceans act as a great reservoir that allows for the evaporation of water into the atmosphere, necessary for photosynthesis, greenhouse effect and overall warming of the planet.
+c) Water acts as a solvent (dissolving agent) which circulates through soil and helps in the delivery and distribution of nutrients that plants and other organisms need.</FULL>
+		<KEY>
+			<WORD>heat</WORD>			<VALUE>0.3</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>oceans</WORD>			<VALUE>0.3</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>solvent</WORD>			<VALUE>0.4</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - </ID>
+	<Q>5. Three functions of the Earth’s water supply for human/animal life</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Water is essential to human life:
+a) water is the basis of blood and digestive juices (oxygen is dissolved in our blood, food, minerals, and vitamins are carried to our bodily through water)
+b) Water is the basis of metabolism (the process of building up food into living matter and then breaking it down into waste)
+c) Water allows for the removal of waste and toxins from our bodies (sweat).
+d) Water is necessary for photosynthesis in green plants and plants are necessary part of the food chain.</FULL>
+		<KEY>
+			<WORD>blood</WORD> <WORD>digestive</WORD>			<VALUE>0.33</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>metabolism</WORD>			<VALUE>0.33</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>waste</WORD> <WORD>toxin</WORD>	<WORD>sweat</WORD>		<VALUE>0.33</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>photosynthesis</WORD>			<VALUE>0.33</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>water</WORD>			<VALUE>0.01</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+
+<!-- DUPLICATE 
+<QUESTION>
+	<ID>Terminology - Global Superlatives</ID>
+	<Q>What are the 4 Spheres on Earth?</Q>
+	<TYPE>Short</TYPE>
+	<ANSWER>
+		<FULL>1. Lithosphere (Earth’s crust-soil, rocks, minerals); 2. Hydrosphere (water); 3. Atmosphere (gases in air); 4. Biosphere (all lifeforms)</FULL>
+		<KEY>
+			<WORD>Lithosphere</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Hydrosphere</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Atmosphere</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>Biosphere</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+-->
+
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>Short Answer - </ID>
+	<Q>7. What are the 2 functions of the Earth’s atmosphere?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>1) maintain an even, stable temperature on Earth; 2) shields the Earth from potential harmful cosmic particles such as meteors. (most meteors are consumed or destroyed by “friction” while passing through atmosphere)</FULL>
+		<KEY>
+			<WORD>temperature</WORD>			<VALUE>0.5</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>potential harm</WORD> <WORD>particles</WORD> <WORD>meteor</WORD> <VALUE>0.5</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+
+</REVIEW>

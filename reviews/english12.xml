@@ -1,0 +1,27 @@
+<REVIEW>
+
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>1</ID>
+	<Q>What is the Lord of the Flies?</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>The international poverty line has in the past been roughly $1.00 a day. In 2008 the world bank came out with a revised figure of $1.25.</FULL>
+		<KEY>
+			<WORD>sow</WORD>
+			<WORD>pig</WORD>
+			<VALUE>0.3</VALUE>
+		</KEY>
+			<KEY>
+			<WORD>head</WORD>
+			<VALUE>0.3</VALUE>
+		</KEY>
+		<KEY>
+			<WORD>stick</WORD>
+			<WORD>spear</WORD>
+			<VALUE>0.4</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+
+</REVIEW>

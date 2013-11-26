@@ -1,0 +1,17 @@
+<REVIEW>
+
+<QUESTION>
+	<!-- Question 1 -->
+	<ID>1</ID>
+	<Q>CHEMISTRY 1</Q>
+	<TYPE>Short</TYPE> <!-- Short = Short answer -->
+	<ANSWER>
+		<FULL>Molar Mass of Water</FULL>
+		<KEY>
+			<WORD>18.02</WORD>
+			<VALUE>1.0</VALUE>
+		</KEY>
+	</ANSWER>
+</QUESTION>
+
+</REVIEW>
